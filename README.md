@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**copleykj/copleykj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Kelly. Welcome to my little corner of GitHub. Here you can find all of my open source work, and follow my public activity, as well as any projects I'm working on.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a husband to a beautiful woman also named Kelli (yes Kelly and Kelli), and a father of 4  amazing boys; Tristen, Brody, Eivin, and Caleb.
+
+I've been a freelance and open-source software developer since 2009. I have a deep appreciation of the web platform and an undying love of JavaScript. Once upon a time I mostly worked on PHP codebases, but In 2011 I stumbled upon NodeJS and shortly thereafter, Meteor, and I've been happily working in JavaScript stacks ever since.
+
+## GitHub Stats
+
+![copleykj's GitHub Stats](https://github-readme-stats.vercel.app/api?username=copleykj&hide_title=true&count_private=true&show_icons=true&theme=gruvbox&bg_color=00000000&border_color=00000000&text_color=bbbbbb&include_all_commits=true)
+
+## Language Stats (powered by WakkaTime)
+
+![Language Usage Chart by WakkaTime](https://wakatime.com/share/@72f9f3fb-0c3d-4c53-aff6-8f7b743fe760/0a31b733-e1ba-4782-8c32-ef262dd9791b.svg)
