@@ -18,7 +18,7 @@ I've been a freelance and open-source software developer since 2009. I have a de
   <img src="https://wakatime.com/share/@72f9f3fb-0c3d-4c53-aff6-8f7b743fe760/0a31b733-e1ba-4782-8c32-ef262dd9791b.svg" alt="copleykj's Language Stats" />
 </details>
 
-<details><summary>See Coding Time</summary
+<details><summary>See Coding Time</summary>
   <h2>Daily Time Spent Coding (powered by WakkaTime)</h2>
   <img src="https://wakatime.com/share/@copleykj/0cc71eb0-c99d-470a-a717-cef940822a12.png" />
 </details>
