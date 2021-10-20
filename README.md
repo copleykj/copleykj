@@ -1,4 +1,4 @@
-# Hey 👋
+# Hey 👋 [![wakatime](https://wakatime.com/badge/user/72f9f3fb-0c3d-4c53-aff6-8f7b743fe760.svg)](https://wakatime.com/@72f9f3fb-0c3d-4c53-aff6-8f7b743fe760)
 
 Hi, I'm Kelly. Welcome to my little corner of GitHub. Here you can find all of my open source work, and follow my public activity, as well as any projects I'm working on.
 
